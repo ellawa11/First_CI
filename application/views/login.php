@@ -4,7 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Stellar Admin</title>
+    <title>Halaman Login</title>
     <!-- plugins:css -->
     <link rel="stylesheet" href="<?php echo base_url('assets/vendors/simple-line-icons/css/simple-line-icons.css')?>">
     <link rel="stylesheet" href="<?php echo base_url('assets/vendors/flag-icon-css/css/flag-icon.min.css')?>">
@@ -28,7 +28,7 @@
                 <div class="brand-logo">
                   <img src="<?php echo base_url('assets/images/logo.svg')?>">
                 </div>
-                <h4>Hello! let's get started</h4>
+                <h4>Hello!</h4>
                 <h6 class="font-weight-light">Sign in to continue.</h6>
                 <form class="pt-3">
                   <div class="form-group">
